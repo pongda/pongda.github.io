@@ -1838,7 +1838,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f7468f;
+  background: #b8d087;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2674,6 +2674,11 @@ embed {
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
+#pd-copyright {
+  text-align: center;
+  color: #666;
+  font-size: 14px;
 }
 .sidebar {
   background-image: url("/images/pd_icon/sidebar-bg-mf.jpg");
